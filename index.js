@@ -1,3 +1,4 @@
+// 2/2/21
 function findMinAndRemove(arr) {
   let min = arr[0];
   let index = 0;
