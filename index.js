@@ -1,6 +1,10 @@
+function findMinAndRemove(arr) {
+  
+}
 
-
-
+function insertionSort(arr) {
+  
+}
 
 
 
