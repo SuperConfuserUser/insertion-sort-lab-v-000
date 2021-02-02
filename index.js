@@ -17,6 +17,7 @@ function insertionSort(arr) {
     let min = findMinAndRemove(arr);
     sorted.push(min);
   } 
+  return sorted;
 }
 
 
